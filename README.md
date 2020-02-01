@@ -5,8 +5,8 @@ Want to quickly send any of your personal information like your number,email,git
 Just launch the app for the first time , add in all the information that you need frequently .
 Next time you want to send someone any of the data , just fire up the app and copy whatever data you need to send and you are good to go .
 
-This app does not store any of your data in the cloud or any other database . It stores all your personal information on <strong>your device</strong> itself using Shared Preferences.
-
+This app does not store any of your data in the cloud or any other database . It stores all your personal information on <strong>your device</strong> itself using Shared Preferences.</br>
+<strong>You can try the app here </strong>: https://drive.google.com/drive/folders/1A21kUaABX5gl8Y7NwVUlKFQAQ7BEhaT4
 
 ## Screenshots
 
@@ -14,6 +14,7 @@ Splash Screen
 ![ss1](https://github.com/parthpanchal123/Cu-urls/blob/master/Screenshots/ss1.png)</br>
 Home Screen
 ![ss1](https://github.com/parthpanchal123/Cu-urls/blob/master/Screenshots/ss2.png)
+
 
 
 ## Getting Started
