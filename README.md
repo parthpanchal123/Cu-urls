@@ -1,4 +1,4 @@
-# my_url_app
+# Cu-urls : All your social links at one place !
 
 A new Flutter application.
 
