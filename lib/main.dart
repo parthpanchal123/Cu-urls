@@ -425,6 +425,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
                   prefs.get('_email') == _email &&
                   prefs.get('_phoneNumber') == _phoneNumber &&
                   prefs.get('_resume') == _resume &&
+                  prefs.get('_address') == _address &&
                   prefs.get('_website') == _website) {
                 snackBar = SnackBar(
                     backgroundColor: Colors.grey[900],
