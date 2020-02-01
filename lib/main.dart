@@ -381,7 +381,7 @@ class _MyAppState extends State<MyApp> with WidgetsBindingObserver {
                             child: TextField(
                               style: TextStyle(
                                   color: Colors.black, fontSize: 23.0),
-                              controller: TextEditingController(text: _website),
+                              controller: TextEditingController(text: _address),
                               decoration: InputDecoration(
                                   hintText: 'Address',
                                   border: InputBorder.none,
