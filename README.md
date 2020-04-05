@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Awesome-Flutter-blue)<br>
-![](https://img.shields.io/badge/View-on%20PlayStore-blue)<br>
+<img src="https://img.shields.io/badge/View-on%20PlayStore-blue" width="130" title="" onClick="location.href='http://bit.ly/Cu-urls'">
 <hr>
 
 # Cu-urls : All your social links at one place !
