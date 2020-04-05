@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/Awesome-Flutter-blue)<br>
+![](https://img.shields.io/badge/View-on%20PlayStore-blue)<br>
+<hr>
+
 # Cu-urls : All your social links at one place !
 
 Want to quickly send any of your personal information like your number,email,github profile link or any other link , <strong>Cu-urls</strong> is the quick way.
