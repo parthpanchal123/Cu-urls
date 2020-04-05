@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Awesome-Flutter-blue)<br>
-<img src="https://img.shields.io/badge/View-on%20PlayStore-blue" width="130" title="" onClick="location.href='http://bit.ly/Cu-urls'">
+  <input type="button" name="button" value="View on Playstore" onclick="https://play.google.com/store/apps/details?id=parthpanchal.my_url_app" style="background: url(https://img.shields.io/badge/View-on%20PlayStore-blue) no-repeat; "/>
 <hr>
 
 # Cu-urls : All your social links at one place !
