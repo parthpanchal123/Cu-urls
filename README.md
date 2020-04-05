@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Awesome-Flutter-blue)<br>
-  <input type="button" name="button" value="View on Playstore" onclick="https://play.google.com/store/apps/details?id=parthpanchal.my_url_app" style="background: url(https://img.shields.io/badge/View-on%20PlayStore-blue) no-repeat; "/>
+<a href='https://play.google.com/store/apps/details?id=parthpanchal.my_url_app&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="50" width="150"/></a>
 <hr>
 
 # Cu-urls : All your social links at one place !
