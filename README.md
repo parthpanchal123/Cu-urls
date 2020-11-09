@@ -10,7 +10,7 @@ Just launch the app for the first time , add in all the information that you nee
 Next time you want to send someone any of the data , just fire up the app and copy whatever data you need to send and you are good to go .
 
 This app does not store any of your data in the cloud or any other database . It stores all your personal information on <strong>your device</strong> itself using Shared Preferences.</br>
-<strong>You can try the app here </strong>: http://bit.ly/2u0zboE
+
 
 ## Screenshots
 
